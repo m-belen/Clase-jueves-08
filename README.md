@@ -8,3 +8,9 @@ repositorio clase dia jueves 08 abril
 ~~clase número 2~~
 
 - Primer repositorio
+
+<li>Paloma</li>
+
+<li>Zorzal</li>
+
+<li>Gaviota</li>

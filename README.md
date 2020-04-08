@@ -7,7 +7,7 @@ repositorio clase dia jueves 08 abril
 
 ~~clase número 2~~
 
-- Primer repositorio
+### Lista Primer repositorio
 
 <li>Paloma</li>
 

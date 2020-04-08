@@ -2,5 +2,9 @@
 repositorio clase dia jueves 08 abril 
 
 ## subtituloql
+
 **ESTO ES UNA BAJADAAAAAAA**
+
 ~~hola chicas~~
+
+- wena ctm

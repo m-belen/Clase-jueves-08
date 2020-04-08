@@ -1,10 +1,10 @@
 # Clase-jueves-08
 repositorio clase dia jueves 08 abril 
 
-## subtituloql
+## Subtitulo clase
 
-**ESTO ES UNA BAJADAAAAAAA**
+**Esto es una bajada**
 
-~~hola chicas~~
+~~clase número 2~~
 
-- wena ctm
+- Primer repositorio
